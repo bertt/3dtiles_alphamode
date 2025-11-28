@@ -2,11 +2,11 @@
 
 ## Introduction
 
-
+Samples of 3D Tiles and alpha blending (OPAQUE/BLEND/MASK with alpha_cutoff)
 
 ## Database
 
-See [create_cubes.sql](create_cubes.sql} for database script to create 6 cubes in Utrecht, with shader column.
+See [create_cubes.sql](create_cubes.sql) for database script to create 6 cubes in Utrecht, with shader column.
 
 ## Results
 
