@@ -1,8 +1,8 @@
-# 3dtiles_alphamode
+# 3D Tiles Alpha Mode
 
 ## Introduction
 
-Samples of 3D Tiles and alpha blending (OPAQUE/BLEND/MASK with alpha_cutoff)
+Samples of 3D Tiles and alpha modes (OPAQUE/BLEND/MASK with alpha_cutoff)
 
 ## Database
 
